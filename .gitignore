@@ -1,0 +1,5 @@
+bundle-inputs/
+transcripts.tar.gz
+STAGE-*.md
+__pycache__/
+*.pyc
